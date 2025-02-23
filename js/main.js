@@ -3,7 +3,7 @@ const doParticles = true;
 
 // If set to true, the playercount banner will display the serverOfflineText (ie "Server isn't online!")
 // If set to false, the playercount banner will hide the playercount (ie "Join other players on <IP>")
-const tellUsersWhenServerIsOffline = true;
+const tellUsersWhenServerIsOffline = false;
 
 // If tellUsersWhenServerIsOffline is set to true, what text should be displayed?
 const serverOfflineText = "Server isn't online!";
